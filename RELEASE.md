@@ -10,6 +10,8 @@
 
 ## Deprecations
 
+*   Deprecated input/output compatibility aliases for SchemaGen.
+
 ## Bug fixes and other changes
 
 ## Documentation updates
